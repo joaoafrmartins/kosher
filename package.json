@@ -1,0 +1,26 @@
+{
+  "name": "kosher",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "chai": "",
+    "chai-spies": "",
+    "mockery": "",
+    "require-tree": "",
+    "should": "",
+    "shelljs": ""
+  },
+  "description": "Kosher",
+  "keywords": [
+    "kosher"
+  ],
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/kosher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/kosher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/kosher/issues"
+  }
+}
