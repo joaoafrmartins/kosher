@@ -14,9 +14,9 @@ class Kosher
 
     options = @options
 
-    specDirname = options.specDirname or 'spec'
-
     global.kosher = @
+
+    specDirname = options.specDirname or 'spec'
 
     caller = dirname(module.parent.parent)
 
